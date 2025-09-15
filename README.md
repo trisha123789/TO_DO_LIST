@@ -37,7 +37,7 @@ Python 3
 
 .Export tasks to CSV/Excel
 
-✨ Built with ❤️ by Trisha
+✨ Built by Trisha
 
 
 
